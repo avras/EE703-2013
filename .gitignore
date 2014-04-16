@@ -1,0 +1,14 @@
+*.pdf
+*.aux
+*.swp
+*.log
+*.bbl
+*.blg
+*.dvi
+*.out
+*.snm
+*.nav
+*.toc
+*.gnuplot
+*.table
+.DS_Store
