@@ -11,7 +11,8 @@ Compiling the source files
 
     + For the non-handout version, simply type `make` in the `slides` subdirectory
     + For the handout version, type `make handout` in the `slides` subdirectory
-    
+
+* Some slide decks contain plots which requires `gnuplot` to be installed on your machine.   
 License
 -------
 This code is being released under the permissive [MIT License](http://choosealicense.com/licenses/mit/)
