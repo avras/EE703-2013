@@ -1,7 +1,7 @@
 EE 703 Digital Message Transmission (Autumn 2013)
 -------------------------------------------------
 
-This repository contains the LaTeX files pertaining to the Autumn 2013 edition of the EE703 course at IIT Bombay. The pdf files corresponding to these source files can be found at [this link](http://www.ee.iitb.ac.in/~sarva/EE703/Autumn2013.html)
+This repository contains the LaTeX files pertaining to the Autumn 2013 edition of the EE703 course at IIT Bombay. The pdf files corresponding to these source files can be found at [this link](http://www.ee.iitb.ac.in/~sarva/courses/EE703/Autumn2013.html)
 
 Compiling the source files
 --------------------------
